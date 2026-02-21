@@ -18,7 +18,7 @@ client.on('ready', () => {
 
     // Schedule message at specific time daily
     // Example: 14:30 (2:30 PM)
-    cron.schedule('30 9 * * *', () => {
+    cron.schedule('48 9 * * *', () => {
 
     const number = "918870614461@c.us"; // replace with your number
 
